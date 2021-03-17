@@ -23,8 +23,8 @@
     "reactstart": "react-scripts start",
     "webservice": "node server.js",
     "build": "react-scripts build",
-    "deploy":"gh-pages -d build",
-    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

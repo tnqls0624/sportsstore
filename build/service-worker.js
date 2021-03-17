@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sportsstore/precache-manifest.1ef13baa2a260c34ab31e038cffcf8f1.js"
+  "/sportsstore/precache-manifest.f7da061938a7a4dc73c633bc92108801.js"
 );
 
 workbox.clientsClaim();

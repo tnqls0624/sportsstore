@@ -24,48 +24,48 @@ self.__precacheManifest = [
     "url": "/sportsstore/static/media/fa-brands-400.f80b8a05.woff2"
   },
   {
-    "revision": "877baf6278a6f1506a07afd23b334f47",
-    "url": "/sportsstore/static/media/fa-brands-400.877baf62.eot"
-  },
-  {
     "revision": "5e405c16c959bec402cc00609e9806f9",
     "url": "/sportsstore/static/media/fa-brands-400.5e405c16.woff"
   },
   {
-    "revision": "418d54a4a9df0e7b3e28dc09e4cce808",
-    "url": "/sportsstore/static/media/fa-brands-400.418d54a4.ttf"
+    "revision": "877baf6278a6f1506a07afd23b334f47",
+    "url": "/sportsstore/static/media/fa-brands-400.877baf62.eot"
   },
   {
     "revision": "ec813c5b36705e64ba121073b315cb52",
     "url": "/sportsstore/static/media/fa-regular-400.ec813c5b.eot"
   },
   {
-    "revision": "569693c9f5d42d769c7f87b90856219a",
-    "url": "/sportsstore/static/media/fa-regular-400.569693c9.woff2"
+    "revision": "418d54a4a9df0e7b3e28dc09e4cce808",
+    "url": "/sportsstore/static/media/fa-brands-400.418d54a4.ttf"
   },
   {
     "revision": "06b3153d3d537a854dc839652018bb87",
     "url": "/sportsstore/static/media/fa-regular-400.06b3153d.woff"
   },
   {
-    "revision": "323b749d60730fa9ab61ff2d70e1cc32",
-    "url": "/sportsstore/static/media/fa-regular-400.323b749d.ttf"
+    "revision": "569693c9f5d42d769c7f87b90856219a",
+    "url": "/sportsstore/static/media/fa-regular-400.569693c9.woff2"
   },
   {
     "revision": "e54c6ae126dd37d48c47dc1aa75cb54e",
     "url": "/sportsstore/static/media/fa-regular-400.e54c6ae1.svg"
   },
   {
+    "revision": "323b749d60730fa9ab61ff2d70e1cc32",
+    "url": "/sportsstore/static/media/fa-regular-400.323b749d.ttf"
+  },
+  {
     "revision": "686e245a4f1a9894d10a576655e932dd",
     "url": "/sportsstore/static/media/fa-solid-900.686e245a.woff"
   },
   {
-    "revision": "f9103ae53b2dbcb0a14605eebc90a2ce",
-    "url": "/sportsstore/static/media/fa-solid-900.f9103ae5.eot"
-  },
-  {
     "revision": "59ea9019c9b9bc4d83ab9783e830735c",
     "url": "/sportsstore/static/media/fa-solid-900.59ea9019.woff2"
+  },
+  {
+    "revision": "f9103ae53b2dbcb0a14605eebc90a2ce",
+    "url": "/sportsstore/static/media/fa-solid-900.f9103ae5.eot"
   },
   {
     "revision": "b9c86e3abec102a2c9910dfac85c1c17",
